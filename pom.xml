@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <modelVersion>1.0.0</modelVersion>
+  <modelVersion>4.0.0</modelVersion>
   <groupId>com.barcelo.calidad</groupId>
   <artifactId>CalidadBarcelo</artifactId>
   <packaging>pom</packaging>
   <name>CalidadBarcelo</name>
-  <version>4.0.0</version>
+  <version>1.0.0</version>
   <description>Módulo de calidad para Barceló</description>
  <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
